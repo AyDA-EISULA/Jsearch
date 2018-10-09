@@ -1,6 +1,7 @@
 # Jsearch
 
 ¿Qué es Jsearch?
+
 Jsearch es un motor de busqueda de código abierto.
 
 ¿Para que sirve?
